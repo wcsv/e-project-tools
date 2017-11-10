@@ -19,7 +19,7 @@
 ;; run M-x load-file <path-to-this-file> from within Emacs, or load
 ;; it from your .emacs file.
 
-;;This fie is NOT part of Emacs
+;;This file is NOT part of Emacs
 
 
 ;;;;;;;;;;;;;;;;;;;;
